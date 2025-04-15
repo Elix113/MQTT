@@ -1,0 +1,23 @@
+{
+  "name": "tp_mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elix113/MQTT.git"
+  },
+  "author": "Sophia & Elias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elix113/MQTT/issues"
+  },
+  "homepage": "https://github.com/Elix113/MQTT#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
